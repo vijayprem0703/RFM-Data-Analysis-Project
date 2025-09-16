@@ -20,7 +20,7 @@ Businesses generate large amounts of transactional data, but turning that raw da
 * Segment customers into groups such as Champions, Loyal Customers, At Risk, Hibernating, Promising, etc.
 
 * Build an interactive Power BI dashboard to visualize insights and help businesses make data-driven decisions.
-* 
+  
 ## The Results
 
 ![2](https://user-images.githubusercontent.com/63555029/230893218-a28519e7-ba24-4ee4-bd76-0225611f1136.png)
